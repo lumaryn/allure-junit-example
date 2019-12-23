@@ -1,6 +1,6 @@
 package my.company.steps;
 
-import my.company.TestProperties;
+import my.company.util.TestProperties;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.openqa.selenium.*;
